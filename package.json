@@ -35,7 +35,7 @@
     },
     "homepage": "https://aijs.themaximalist.com",
     "dependencies": {
-        "@themaximalist/embeddings.js": "latest",
+        "embeddings.js": "https://github.com/supaIC/embeddings.js.git",
         "@themaximalist/imagine.js": "latest",
         "@themaximalist/llm.js": "latest",
         "@themaximalist/vectordb.js": "latest",
